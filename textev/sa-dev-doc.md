@@ -155,11 +155,11 @@ release version: 2021006091200
 
 ### SA Wallet
 
-![SA Wallet-SA Coupon-已使用](/home/silvia/impochun.github.io/textev/img/SA Wallet-SA Coupon-已使用.png)
+![SA Wallet-SA Coupon-已使用](/img/SA Wallet-SA Coupon-已使用.png)
 
-![SA Wallet-SA Coupon-未使用](/home/silvia/impochun.github.io/textev/img/SA Wallet-SA Coupon-未使用.png)
+![SA Wallet-SA Coupon-未使用](/img/SA Wallet-SA Coupon-未使用.png)
 
-![SA Wallet-SA Gift Voucher](/home/silvia/impochun.github.io/textev/img/SA Wallet-SA Gift Voucher.png)
+![SA Wallet-SA Gift Voucher](/img/SA Wallet-SA Gift Voucher.png)
 
 ![SA Wallet-使用紀錄](img/SA Wallet-使用紀錄.png)
 
@@ -1072,7 +1072,7 @@ SA人員則於收到退貨需求後開始處理，首先執行逆物流派車收
 
 主題活動修改：主題活動不會自己獨立存在，要跟著促銷活動去建立。此段尚未討論，需討論。
 
-![discount-event](/home/silvia/impochun.github.io/textev/img/discount-event.png)
+![discount-event](img/discount-event.png)
 
 ### VIP活動
 
@@ -1159,7 +1159,7 @@ SA人員則於收到退貨需求後開始處理，首先執行逆物流派車收
   - 折價券使用訂單消費額加總
 - StudioA提供之目前使用介面供參考：
 
-![coup](/home/silvia/impochun.github.io/textev/img/coup.png)
+![coupon](/img/coup.png)
 
 ### 加價購 (商品)
 
