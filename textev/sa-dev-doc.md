@@ -155,11 +155,11 @@ release version: 2021006091200
 
 ### SA Wallet
 
-![SA Wallet-SA Coupon-已使用](/img/SA Wallet-SA Coupon-已使用.png)
+![SA Wallet-SA Coupon-已使用](img/SA Wallet-SA Coupon-已使用.png)
 
-![SA Wallet-SA Coupon-未使用](/img/SA Wallet-SA Coupon-未使用.png)
+![SA Wallet-SA Coupon-未使用](img/SA Wallet-SA Coupon-未使用.png)
 
-![SA Wallet-SA Gift Voucher](/img/SA Wallet-SA Gift Voucher.png)
+![SA Wallet-SA Gift Voucher](img/SA Wallet-SA Gift Voucher.png)
 
 ![SA Wallet-使用紀錄](img/SA Wallet-使用紀錄.png)
 
@@ -1159,7 +1159,7 @@ SA人員則於收到退貨需求後開始處理，首先執行逆物流派車收
   - 折價券使用訂單消費額加總
 - StudioA提供之目前使用介面供參考：
 
-![coupon](/img/coup.png)
+![coupon](img/coup.png)
 
 ### 加價購 (商品)
 
