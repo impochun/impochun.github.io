@@ -801,7 +801,7 @@ Shopline商品管理參考圖
 
 ### 訂單管理介面
 
-![order-management-ui-flow](/home/silvia/impochun.github.io/textev/img/order-management-ui-flow.png)
+![order-management-ui-flow](img/order-management-ui-flow.png)
 
 **訂單狀態**：訂單狀態在後台拆開來顯示，狀態若有串接則依照串接來的狀態判斷變更，但依然開放可手動修改狀態(部分沒串接或出問題情況)
 
