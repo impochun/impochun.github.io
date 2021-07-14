@@ -1121,6 +1121,60 @@ SA人員則於收到退貨需求後開始處理，首先執行逆物流派車收
 - **前台呈現**：預約為以活動頁+預約商品形式呈現
 - **限時限量**：一檔預約可能會有多個不同商品開放預約，限額部分以整個活動累計數量做限額。
 
+### 新機預約後台介面製作參考
+
+1. 預約主功能頁 (預約列表頁)
+
+   可新增預約活動、看現有的所有預約活動、編輯預約活動(同現有後台的編輯方式)、預約管理活動
+
+![appointment1](/home/silvia/impochun.github.io/textev/img/appointment1.png)
+
+2. 若點擊新增預約活動則進入新增畫面
+
+   若編輯活動一樣用這個介面。
+
+![appointment2](/home/silvia/impochun.github.io/textev/img/appointment2.png)
+
+![appointment3](/home/silvia/impochun.github.io/textev/img/appointment3.png)
+
+3. 若從預約主功能頁 (預約列表頁)點擊 "預約管理"，則可進入該則預約的詳細管理介面
+
+   此介面分三個頁籤(子頁面)
+
+   1. 預約管理：即主要預約的狀態一覽 & 配貨功能
+   2. 預約名單：即陳列所有本次預約活動下的預約者名單與狀態等細節
+   3. 預約細節：即前面新增預約活動時填寫的活動資料"檢視"頁面 (僅檢視不提供修改編輯)
+
+   預約管理頁面：
+
+   - 因為同一檔預約會有很多種商品、各個商品又會有各種機型與顏色，因此在預約管理頁面把所有商品/機型/顏色全數列出，並提供配貨按鈕，若針對個別商品/機型/顏色要配貨則去按該按鈕。
+
+![appointment4](/home/silvia/impochun.github.io/textev/img/appointment4.png)
+
+預約管理 > 配貨按鈕 > 配貨popup功能
+
+- 點擊配貨按鈕後，popup配貨的商品資訊 & 一個可填數字的欄位讓管理者可以填寫配貨數量。
+- 配貨數量不可超過目前剩餘的總數，例如總預約數為1000，若已經配了200，則最高只能填寫800否則會出現錯誤。
+- 無論門市/EC取貨，配貨排序皆是一起計算排序，因此只需要一個欄位填寫配貨數量即可。
+
+![appointment5](/home/silvia/impochun.github.io/textev/img/appointment5.png)
+
+預約名單：
+
+- 詳細表格資料見此Excel：https://docs.google.com/spreadsheets/d/1m5AzoBhrNbeuLZs3Urqrj9nJu9C3TsROL57jEfxw88A/edit#gid=0
+- 這邊就是把所有在這檔預約下有預約的全部預約資訊顯示出來。
+- 同時，門市人員需要上來這個介面操作"變更狀態"的部份，要在列表處可以直接編輯狀態，要可以支援批次修改狀態。
+
+![appointment7](/home/silvia/impochun.github.io/textev/img/appointment7.png)
+
+預約細節：
+
+- 即本預約活動資訊的檢視。
+
+![appointment8](/home/silvia/impochun.github.io/textev/img/appointment8.png)
+
+### 新機預約流程
+
 ![16](img/16.png)
 
 ![新機預約](img/新機預約.png)
