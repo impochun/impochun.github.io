@@ -1187,7 +1187,7 @@ SA人員則於收到退貨需求後開始處理，首先執行逆物流派車收
 
 ![reorder-2](./img/reorder-2.png)
 
-![reorder-3](/home/silvia/impochun.github.io/textev/img/reorder-3.png)
+![reorder-3](./img/reorder-3.png)
 
 預約名單：
 
