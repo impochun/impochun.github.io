@@ -397,7 +397,7 @@ Shopline商品管理參考圖
 
 管理者可以選取某個商品，然後直接複製該商品的所有資料去建立一支新的商品。(因為有可能是同一隻商品，做不同活動價格或是類似的商品只是修改部分內容)。
 
-##### 產品規格表
+**產品規格表**
 
 共有四種表可填寫，由上架人員自行填寫。
 
@@ -929,6 +929,8 @@ SA人員則於收到退貨需求後開始處理，首先執行逆物流派車收
 **退貨單介面參考：**
 
 ![return-orders](./img/return-orders.jpg)
+
+![sa-bk-returns-modify-1](./img/sa-bk-returns-modify-1.svg)
 
 ### 補收單
 
@@ -2036,9 +2038,9 @@ SA Care為Studio A與新光產險提供給有購買主機的會員手機保險�
 
 ![14](img/14.png)
 
-SA Care設定介面
+**SA Care設定介面**
 
-1. EC與新光產險API溝通的紀錄
+1. EC SA Care紀錄: https://docs.google.com/spreadsheets/d/1qypSKTs0HTZIe5d84GNJMzlecVBuUh7LVl_R0yw-tCc/edit#gid=0
 
 2. 我要續約文字/門市續保規則 上傳檔案/連結(PDF)
 
