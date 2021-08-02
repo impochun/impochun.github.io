@@ -563,6 +563,7 @@ Shopline商品管理參考圖
   4. 消費者於SA Wallet歸戶於其他平台上購得的SA禮券
   5. 消費者於SA Wallet瀏覽擁有的禮券
   6. 消費者於結帳時使用禮券抵結帳金額
+  7. 使用與測試情境：https://docs.google.com/document/d/1lJo0TodvuMJWEPP8rcdIDfoxTqpJvgKRMOBqdU8axO0/edit#
 
 ![13-2](img/13-2.png)
 
