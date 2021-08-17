@@ -1221,7 +1221,7 @@ SA人員則於收到退貨需求後開始處理，首先執行逆物流派車收
 - 配貨數量不可超過目前剩餘的總數，例如總預約數為1000，若已經配了200，則最高只能填寫800否則會出現錯誤。
 - 無論門市/EC取貨，配貨排序皆是一起計算排序，因此只需要一個欄位填寫配貨數量即可。
 
-![appointment5](/home/silvia/impochun.github.io/textev/img/appointment5.png)
+![appointment5](./img/appointment5.png)
 
 #### 實際配貨流程說明
 
