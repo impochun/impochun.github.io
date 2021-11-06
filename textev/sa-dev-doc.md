@@ -1121,7 +1121,7 @@ SA人員則於收到退貨需求後開始處理，首先執行逆物流派車收
 
 **快送服務示意圖：**
 
-![fast-delivery-flow](sa-dev-doc/fast-delivery-flow.png)
+![fast-delivery-flow](img/fast-delivery-flow.png)
 
 
 
